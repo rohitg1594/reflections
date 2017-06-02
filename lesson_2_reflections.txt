@@ -1,2 +1,8 @@
 1) What happens when you initialize a repository? Why do you need to do it?
 Ans. A new .git file is created in that repository which then stores the metadata on the files in the repository. One needs to create as otherwise it is only a normal directory and doesn't store any metadata that git uses.
+
+2)How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans. Staging area is a behind the scenes place where the files are grouped together before commiting. This allows the commit command to have more flexibility and one can commit per logical change in our project.
+
+3)How can you use the staging area to make sure you have one commit per logical change?
+Ans. Staging area can only include those files where the logical change has been made.
