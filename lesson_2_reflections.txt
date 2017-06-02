@@ -9,3 +9,6 @@ Ans. Staging area can only include those files where the logical change has been
 
 4)What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Ans. If I wanted to create multiple versions of the same project say for different users, branches would be very helpful. They would also be helpful if I was not sure about integrating a new feature, using branches would help me in organizing without comprimising my original code.
+
+5)How do the diagrams help you visualize the branch structure?
+Ans. Diagrams helps one in making clear the relationships between the various commits and also tells us the path to any commit by choosing a branch.
