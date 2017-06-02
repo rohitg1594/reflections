@@ -1,0 +1,2 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+Ans. A new .git file is created in that repository which then stores the metadata on the files in the repository. One needs to create as otherwise it is only a normal directory and doesn't store any metadata that git uses.
