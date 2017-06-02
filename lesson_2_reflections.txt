@@ -12,3 +12,6 @@ Ans. If I wanted to create multiple versions of the same project say for differe
 
 5)How do the diagrams help you visualize the branch structure?
 Ans. Diagrams helps one in making clear the relationships between the various commits and also tells us the path to any commit by choosing a branch.
+
+6)What is the result of merging two branches together?Why do we represent it in the diagram the way we do?
+Ans. Merging two branches results in a new branch being created with all the changes in the two parent branches being incorporated into the new branch.
